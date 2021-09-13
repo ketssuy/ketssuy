@@ -1,5 +1,5 @@
 ## Opa, tudo bom?
-☕Estou no começo ainda, então ainda não possuo nenhum projeto.
+☕Estou no começo ainda...
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketssuy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
